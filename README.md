@@ -22,7 +22,7 @@ The script collects a bunch of useful details and puts them into a single report
 
 This makes it easier for teams to compare systems, catch problems early, and avoid upgrade failures caused by things like low disk space or broken services.
 
-#What This Script Does Not Do
+# What This Script Does Not Do
 - No system changes
 - No service restarts
 - No package installs
@@ -30,7 +30,7 @@ This makes it easier for teams to compare systems, catch problems early, and avo
 - No LEAPP commands
 - No Azure API calls that alter the VM
 
-It’s read-only. The only file it writes is the final report.
+It’s read only. The only file it writes is the final report.
 
 # **How to Use**
 
